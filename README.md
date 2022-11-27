@@ -5,6 +5,7 @@ This is a web based application developed for health related Covid-19 website.
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft.
 
 **Project Link** - https://black-mushroom-0cd222500.2.azurestaticapps.net
+**Project Demo Video**--https://drive.google.com/file/d/1xHdyOSrpxQO--Y9ABDXuaeYTj5uaecWa/view?usp=share_link
 
 
 ## Features and Functionalities 😃
